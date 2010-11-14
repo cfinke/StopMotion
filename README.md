@@ -1,0 +1,1 @@
+StopMotion is an add-on for Firefox that stops the auto-play of DailyMotion videos.

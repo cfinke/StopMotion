@@ -1,0 +1,3 @@
+content     stopmotion     jar:chrome/stopmotion.jar!/content/
+
+overlay     chrome://browser/content/browser.xul  chrome://stopmotion/content/overlay.xul
